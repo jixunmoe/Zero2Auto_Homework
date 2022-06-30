@@ -1,0 +1,17 @@
+node_modules/
+venv/
+__pycache__/
+
+*.bin
+*.png
+*.exe
+
+# IDA
+*.idb
+*.i64
+
+# Ghidra
+*.rep/
+*.gpr
+*.lock
+*.lock~
